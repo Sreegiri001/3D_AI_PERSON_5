@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3D AI Person</title>
+<link rel="stylesheet" href="/static/css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.min.js"></script>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand"><span class="dot"></span><div><b>3D AI Person</b><small>500+ Feature AI Assistant</small></div></div>
+    <div class="header-actions">
+      <button id="voiceBtn" title="Voice input">🎙️</button>
+      <button id="themeBtn" title="Theme">◐</button>
+      <button id="settingsBtn" title="Settings">⚙</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="avatar-panel">
+      <div id="avatar"></div>
+      <div class="status"><span id="statusDot"></span><span id="statusText">Online • Ready</span></div>
+      <div class="avatar-tools">
+        <button data-emotion="happy">😊</button><button data-emotion="neutral">😐</button>
+        <button data-emotion="thinking">🤔</button><button data-emotion="surprised">😮</button>
+      </div>
+    </section>
+
+    <section class="chat-panel">
+      <div class="chat-head"><div><h1>Talk to your AI Person</h1><p>Type or use your microphone.</p></div><button id="clearBtn">Clear</button></div>
+      <div id="messages" class="messages"></div>
+      <div class="quick">
+        <button>Tell me a joke</button><button>Explain Python</button><button>Translate to Tamil</button><button>Give me an idea</button>
+      </div>
+      <form id="chatForm">
+        <textarea id="input" rows="1" placeholder="Message your AI person..." autocomplete="off"></textarea>
+        <button class="send" type="submit">➤</button>
+      </form>
+      <div class="hint">Enter to send • Shift+Enter for a new line</div>
+    </section>
+
+    <aside id="sidePanel" class="side">
+      <div class="side-head"><b>AI Controls</b><button id="closeSide">×</button></div>
+      <label>Personality<select id="personality"><option>Friendly</option><option>Professional</option><option>Teacher</option><option>Creative</option><option>Funny</option></select></label>
+      <label>Language<select id="language"><option>English</option><option>Tamil</option><option>Hindi</option></select></label>
+      <label>Voice<select id="voiceMode"><option>Browser voice</option><option>Silent</option></select></label>
+      <label>Avatar scale<input id="scale" type="range" min=".8" max="1.4" step=".05" value="1"></label>
+      <button id="featuresBtn" class="wide">Browse 500+ Features</button>
+      <button id="exportBtn" class="wide">Export Chat</button>
+    </aside>
+  </main>
+</div>
+
+<div id="featureModal" class="modal hidden"><div class="modal-card"><div class="modal-head"><b>500+ Feature Catalog</b><button id="closeFeatures">×</button></div><input id="featureSearch" placeholder="Search features..."><div id="featureList"></div></div></div>
+<script src="/static/js/avatar.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

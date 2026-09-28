@@ -1,0 +1,3642 @@
+[
+  {
+    "id": 1,
+    "name": "Context awareness",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Context awareness capability in the ai conversation module."
+  },
+  {
+    "id": 2,
+    "name": "Follow-up questions",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Follow-up questions capability in the ai conversation module."
+  },
+  {
+    "id": 3,
+    "name": "Conversation summarization",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Conversation summarization capability in the ai conversation module."
+  },
+  {
+    "id": 4,
+    "name": "Intent detection",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Intent detection capability in the ai conversation module."
+  },
+  {
+    "id": 5,
+    "name": "Prompt presets",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Prompt presets capability in the ai conversation module."
+  },
+  {
+    "id": 6,
+    "name": "Personality profiles",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Personality profiles capability in the ai conversation module."
+  },
+  {
+    "id": 7,
+    "name": "Tone adaptation",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Tone adaptation capability in the ai conversation module."
+  },
+  {
+    "id": 8,
+    "name": "Topic continuity",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Topic continuity capability in the ai conversation module."
+  },
+  {
+    "id": 9,
+    "name": "Clarification mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Clarification mode capability in the ai conversation module."
+  },
+  {
+    "id": 10,
+    "name": "Answer length control",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Answer length control capability in the ai conversation module."
+  },
+  {
+    "id": 11,
+    "name": "Fact-check mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Fact-check mode capability in the ai conversation module."
+  },
+  {
+    "id": 12,
+    "name": "Creative mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Creative mode capability in the ai conversation module."
+  },
+  {
+    "id": 13,
+    "name": "Study mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Study mode capability in the ai conversation module."
+  },
+  {
+    "id": 14,
+    "name": "Interview mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Interview mode capability in the ai conversation module."
+  },
+  {
+    "id": 15,
+    "name": "Brainstorm mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Brainstorm mode capability in the ai conversation module."
+  },
+  {
+    "id": 16,
+    "name": "Roleplay mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Roleplay mode capability in the ai conversation module."
+  },
+  {
+    "id": 17,
+    "name": "Debate mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Debate mode capability in the ai conversation module."
+  },
+  {
+    "id": 18,
+    "name": "Step-by-step mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Step-by-step mode capability in the ai conversation module."
+  },
+  {
+    "id": 19,
+    "name": "Simple explanation mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Simple explanation mode capability in the ai conversation module."
+  },
+  {
+    "id": 20,
+    "name": "Expert explanation mode",
+    "category": "AI Conversation",
+    "status": "Core",
+    "description": "Expert explanation mode capability in the ai conversation module."
+  },
+  {
+    "id": 21,
+    "name": "Procedural avatar",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Procedural avatar capability in the 3d avatar module."
+  },
+  {
+    "id": 22,
+    "name": "Head movement",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Head movement capability in the 3d avatar module."
+  },
+  {
+    "id": 23,
+    "name": "Eye blinking",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Eye blinking capability in the 3d avatar module."
+  },
+  {
+    "id": 24,
+    "name": "Eye tracking",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Eye tracking capability in the 3d avatar module."
+  },
+  {
+    "id": 25,
+    "name": "Idle animation",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Idle animation capability in the 3d avatar module."
+  },
+  {
+    "id": 26,
+    "name": "Talking animation",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Talking animation capability in the 3d avatar module."
+  },
+  {
+    "id": 27,
+    "name": "Gesture animation",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Gesture animation capability in the 3d avatar module."
+  },
+  {
+    "id": 28,
+    "name": "Emotion states",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Emotion states capability in the 3d avatar module."
+  },
+  {
+    "id": 29,
+    "name": "Avatar scale",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Avatar scale capability in the 3d avatar module."
+  },
+  {
+    "id": 30,
+    "name": "Camera zoom",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Camera zoom capability in the 3d avatar module."
+  },
+  {
+    "id": 31,
+    "name": "Camera orbit",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Camera orbit capability in the 3d avatar module."
+  },
+  {
+    "id": 32,
+    "name": "Lighting presets",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Lighting presets capability in the 3d avatar module."
+  },
+  {
+    "id": 33,
+    "name": "Background presets",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Background presets capability in the 3d avatar module."
+  },
+  {
+    "id": 34,
+    "name": "Avatar reset",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Avatar reset capability in the 3d avatar module."
+  },
+  {
+    "id": 35,
+    "name": "Performance mode",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Performance mode capability in the 3d avatar module."
+  },
+  {
+    "id": 36,
+    "name": "Low-poly mode",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Low-poly mode capability in the 3d avatar module."
+  },
+  {
+    "id": 37,
+    "name": "Avatar status indicator",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Avatar status indicator capability in the 3d avatar module."
+  },
+  {
+    "id": 38,
+    "name": "Expression controls",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Expression controls capability in the 3d avatar module."
+  },
+  {
+    "id": 39,
+    "name": "Pose controls",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Pose controls capability in the 3d avatar module."
+  },
+  {
+    "id": 40,
+    "name": "Animation timeline",
+    "category": "3D Avatar",
+    "status": "Core",
+    "description": "Animation timeline capability in the 3d avatar module."
+  },
+  {
+    "id": 41,
+    "name": "Speech recognition",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Speech recognition capability in the voice module."
+  },
+  {
+    "id": 42,
+    "name": "Speech synthesis",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Speech synthesis capability in the voice module."
+  },
+  {
+    "id": 43,
+    "name": "Voice selection",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice selection capability in the voice module."
+  },
+  {
+    "id": 44,
+    "name": "Voice speed",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice speed capability in the voice module."
+  },
+  {
+    "id": 45,
+    "name": "Voice pitch",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice pitch capability in the voice module."
+  },
+  {
+    "id": 46,
+    "name": "Tamil voice",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Tamil voice capability in the voice module."
+  },
+  {
+    "id": 47,
+    "name": "English voice",
+    "category": "Voice",
+    "status": "Core",
+    "description": "English voice capability in the voice module."
+  },
+  {
+    "id": 48,
+    "name": "Hindi voice",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Hindi voice capability in the voice module."
+  },
+  {
+    "id": 49,
+    "name": "Continuous listening",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Continuous listening capability in the voice module."
+  },
+  {
+    "id": 50,
+    "name": "Push-to-talk",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Push-to-talk capability in the voice module."
+  },
+  {
+    "id": 51,
+    "name": "Voice interruption",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice interruption capability in the voice module."
+  },
+  {
+    "id": 52,
+    "name": "Voice replay",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice replay capability in the voice module."
+  },
+  {
+    "id": 53,
+    "name": "Voice mute",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice mute capability in the voice module."
+  },
+  {
+    "id": 54,
+    "name": "Voice status",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice status capability in the voice module."
+  },
+  {
+    "id": 55,
+    "name": "Transcript display",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Transcript display capability in the voice module."
+  },
+  {
+    "id": 56,
+    "name": "Language detection",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Language detection capability in the voice module."
+  },
+  {
+    "id": 57,
+    "name": "Voice command mode",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Voice command mode capability in the voice module."
+  },
+  {
+    "id": 58,
+    "name": "Hands-free mode",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Hands-free mode capability in the voice module."
+  },
+  {
+    "id": 59,
+    "name": "Speech timeout",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Speech timeout capability in the voice module."
+  },
+  {
+    "id": 60,
+    "name": "Audio feedback",
+    "category": "Voice",
+    "status": "Core",
+    "description": "Audio feedback capability in the voice module."
+  },
+  {
+    "id": 61,
+    "name": "Conversation history",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Conversation history capability in the memory & personalization module."
+  },
+  {
+    "id": 62,
+    "name": "Persistent memories",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Persistent memories capability in the memory & personalization module."
+  },
+  {
+    "id": 63,
+    "name": "Memory search",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Memory search capability in the memory & personalization module."
+  },
+  {
+    "id": 64,
+    "name": "Memory categories",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Memory categories capability in the memory & personalization module."
+  },
+  {
+    "id": 65,
+    "name": "Memory deletion",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Memory deletion capability in the memory & personalization module."
+  },
+  {
+    "id": 66,
+    "name": "User preferences",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "User preferences capability in the memory & personalization module."
+  },
+  {
+    "id": 67,
+    "name": "Custom instructions",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Custom instructions capability in the memory & personalization module."
+  },
+  {
+    "id": 68,
+    "name": "Favorite topics",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Favorite topics capability in the memory & personalization module."
+  },
+  {
+    "id": 69,
+    "name": "Recent topics",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Recent topics capability in the memory & personalization module."
+  },
+  {
+    "id": 70,
+    "name": "Personal profile",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Personal profile capability in the memory & personalization module."
+  },
+  {
+    "id": 71,
+    "name": "Session preferences",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Session preferences capability in the memory & personalization module."
+  },
+  {
+    "id": 72,
+    "name": "Privacy mode",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Privacy mode capability in the memory & personalization module."
+  },
+  {
+    "id": 73,
+    "name": "Temporary chat",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Temporary chat capability in the memory & personalization module."
+  },
+  {
+    "id": 74,
+    "name": "Memory import",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Memory import capability in the memory & personalization module."
+  },
+  {
+    "id": 75,
+    "name": "Memory export",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Memory export capability in the memory & personalization module."
+  },
+  {
+    "id": 76,
+    "name": "Context window control",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Context window control capability in the memory & personalization module."
+  },
+  {
+    "id": 77,
+    "name": "Conversation pinning",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Conversation pinning capability in the memory & personalization module."
+  },
+  {
+    "id": 78,
+    "name": "Conversation titles",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Conversation titles capability in the memory & personalization module."
+  },
+  {
+    "id": 79,
+    "name": "Conversation search",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Conversation search capability in the memory & personalization module."
+  },
+  {
+    "id": 80,
+    "name": "Conversation archive",
+    "category": "Memory & Personalization",
+    "status": "Core",
+    "description": "Conversation archive capability in the memory & personalization module."
+  },
+  {
+    "id": 81,
+    "name": "Notes",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Notes capability in the productivity module."
+  },
+  {
+    "id": 82,
+    "name": "Tasks",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Tasks capability in the productivity module."
+  },
+  {
+    "id": 83,
+    "name": "To-do lists",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "To-do lists capability in the productivity module."
+  },
+  {
+    "id": 84,
+    "name": "Timers",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Timers capability in the productivity module."
+  },
+  {
+    "id": 85,
+    "name": "Stopwatch",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Stopwatch capability in the productivity module."
+  },
+  {
+    "id": 86,
+    "name": "Calculator",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Calculator capability in the productivity module."
+  },
+  {
+    "id": 87,
+    "name": "Unit converter",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Unit converter capability in the productivity module."
+  },
+  {
+    "id": 88,
+    "name": "Pomodoro",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Pomodoro capability in the productivity module."
+  },
+  {
+    "id": 89,
+    "name": "Daily planner",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Daily planner capability in the productivity module."
+  },
+  {
+    "id": 90,
+    "name": "Goal tracker",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Goal tracker capability in the productivity module."
+  },
+  {
+    "id": 91,
+    "name": "Habit tracker",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Habit tracker capability in the productivity module."
+  },
+  {
+    "id": 92,
+    "name": "Checklist builder",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Checklist builder capability in the productivity module."
+  },
+  {
+    "id": 93,
+    "name": "Meeting notes",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Meeting notes capability in the productivity module."
+  },
+  {
+    "id": 94,
+    "name": "Agenda builder",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Agenda builder capability in the productivity module."
+  },
+  {
+    "id": 95,
+    "name": "Quick capture",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Quick capture capability in the productivity module."
+  },
+  {
+    "id": 96,
+    "name": "Priority labels",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Priority labels capability in the productivity module."
+  },
+  {
+    "id": 97,
+    "name": "Due dates",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Due dates capability in the productivity module."
+  },
+  {
+    "id": 98,
+    "name": "Progress tracking",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Progress tracking capability in the productivity module."
+  },
+  {
+    "id": 99,
+    "name": "Task filters",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Task filters capability in the productivity module."
+  },
+  {
+    "id": 100,
+    "name": "Productivity dashboard",
+    "category": "Productivity",
+    "status": "Core",
+    "description": "Productivity dashboard capability in the productivity module."
+  },
+  {
+    "id": 101,
+    "name": "Study assistant",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Study assistant capability in the education module."
+  },
+  {
+    "id": 102,
+    "name": "Quiz generator",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Quiz generator capability in the education module."
+  },
+  {
+    "id": 103,
+    "name": "Flashcards",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Flashcards capability in the education module."
+  },
+  {
+    "id": 104,
+    "name": "Exam planner",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Exam planner capability in the education module."
+  },
+  {
+    "id": 105,
+    "name": "Homework helper",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Homework helper capability in the education module."
+  },
+  {
+    "id": 106,
+    "name": "Concept explainer",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Concept explainer capability in the education module."
+  },
+  {
+    "id": 107,
+    "name": "Practice questions",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Practice questions capability in the education module."
+  },
+  {
+    "id": 108,
+    "name": "Answer checking",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Answer checking capability in the education module."
+  },
+  {
+    "id": 109,
+    "name": "Study notes",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Study notes capability in the education module."
+  },
+  {
+    "id": 110,
+    "name": "Lesson plans",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Lesson plans capability in the education module."
+  },
+  {
+    "id": 111,
+    "name": "Vocabulary builder",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Vocabulary builder capability in the education module."
+  },
+  {
+    "id": 112,
+    "name": "Language practice",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Language practice capability in the education module."
+  },
+  {
+    "id": 113,
+    "name": "Math tutoring",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Math tutoring capability in the education module."
+  },
+  {
+    "id": 114,
+    "name": "Science tutoring",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Science tutoring capability in the education module."
+  },
+  {
+    "id": 115,
+    "name": "Programming tutor",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Programming tutor capability in the education module."
+  },
+  {
+    "id": 116,
+    "name": "Revision mode",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Revision mode capability in the education module."
+  },
+  {
+    "id": 117,
+    "name": "Topic roadmap",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Topic roadmap capability in the education module."
+  },
+  {
+    "id": 118,
+    "name": "Learning goals",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Learning goals capability in the education module."
+  },
+  {
+    "id": 119,
+    "name": "Progress review",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Progress review capability in the education module."
+  },
+  {
+    "id": 120,
+    "name": "Citation helper",
+    "category": "Education",
+    "status": "Ready",
+    "description": "Citation helper capability in the education module."
+  },
+  {
+    "id": 121,
+    "name": "Code generation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Code generation capability in the coding module."
+  },
+  {
+    "id": 122,
+    "name": "Code explanation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Code explanation capability in the coding module."
+  },
+  {
+    "id": 123,
+    "name": "Debugging",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Debugging capability in the coding module."
+  },
+  {
+    "id": 124,
+    "name": "Refactoring",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Refactoring capability in the coding module."
+  },
+  {
+    "id": 125,
+    "name": "Code review",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Code review capability in the coding module."
+  },
+  {
+    "id": 126,
+    "name": "Regex helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Regex helper capability in the coding module."
+  },
+  {
+    "id": 127,
+    "name": "SQL helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "SQL helper capability in the coding module."
+  },
+  {
+    "id": 128,
+    "name": "HTML helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "HTML helper capability in the coding module."
+  },
+  {
+    "id": 129,
+    "name": "CSS helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "CSS helper capability in the coding module."
+  },
+  {
+    "id": 130,
+    "name": "JavaScript helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "JavaScript helper capability in the coding module."
+  },
+  {
+    "id": 131,
+    "name": "Python helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Python helper capability in the coding module."
+  },
+  {
+    "id": 132,
+    "name": "Flask helper",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Flask helper capability in the coding module."
+  },
+  {
+    "id": 133,
+    "name": "API design",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "API design capability in the coding module."
+  },
+  {
+    "id": 134,
+    "name": "JSON validation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "JSON validation capability in the coding module."
+  },
+  {
+    "id": 135,
+    "name": "Error explanation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Error explanation capability in the coding module."
+  },
+  {
+    "id": 136,
+    "name": "Unit test generation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Unit test generation capability in the coding module."
+  },
+  {
+    "id": 137,
+    "name": "Project scaffolding",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Project scaffolding capability in the coding module."
+  },
+  {
+    "id": 138,
+    "name": "README generation",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "README generation capability in the coding module."
+  },
+  {
+    "id": 139,
+    "name": "Git guidance",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Git guidance capability in the coding module."
+  },
+  {
+    "id": 140,
+    "name": "Deployment guidance",
+    "category": "Coding",
+    "status": "Ready",
+    "description": "Deployment guidance capability in the coding module."
+  },
+  {
+    "id": 141,
+    "name": "Web search integration",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Web search integration capability in the web & research module."
+  },
+  {
+    "id": 142,
+    "name": "Source list",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Source list capability in the web & research module."
+  },
+  {
+    "id": 143,
+    "name": "Research mode",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Research mode capability in the web & research module."
+  },
+  {
+    "id": 144,
+    "name": "Fact extraction",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Fact extraction capability in the web & research module."
+  },
+  {
+    "id": 145,
+    "name": "URL analysis",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "URL analysis capability in the web & research module."
+  },
+  {
+    "id": 146,
+    "name": "Article summary",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Article summary capability in the web & research module."
+  },
+  {
+    "id": 147,
+    "name": "Comparison mode",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Comparison mode capability in the web & research module."
+  },
+  {
+    "id": 148,
+    "name": "Current information mode",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Current information mode capability in the web & research module."
+  },
+  {
+    "id": 149,
+    "name": "Search query builder",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Search query builder capability in the web & research module."
+  },
+  {
+    "id": 150,
+    "name": "Source notes",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Source notes capability in the web & research module."
+  },
+  {
+    "id": 151,
+    "name": "Research outline",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Research outline capability in the web & research module."
+  },
+  {
+    "id": 152,
+    "name": "Evidence tracking",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Evidence tracking capability in the web & research module."
+  },
+  {
+    "id": 153,
+    "name": "Reference manager",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Reference manager capability in the web & research module."
+  },
+  {
+    "id": 154,
+    "name": "Domain filters",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Domain filters capability in the web & research module."
+  },
+  {
+    "id": 155,
+    "name": "Date filters",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Date filters capability in the web & research module."
+  },
+  {
+    "id": 156,
+    "name": "Result summarization",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Result summarization capability in the web & research module."
+  },
+  {
+    "id": 157,
+    "name": "Question decomposition",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Question decomposition capability in the web & research module."
+  },
+  {
+    "id": 158,
+    "name": "Research checklist",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Research checklist capability in the web & research module."
+  },
+  {
+    "id": 159,
+    "name": "Brief generator",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Brief generator capability in the web & research module."
+  },
+  {
+    "id": 160,
+    "name": "Report generator",
+    "category": "Web & Research",
+    "status": "Ready",
+    "description": "Report generator capability in the web & research module."
+  },
+  {
+    "id": 161,
+    "name": "File upload",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "File upload capability in the files & documents module."
+  },
+  {
+    "id": 162,
+    "name": "PDF analysis",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "PDF analysis capability in the files & documents module."
+  },
+  {
+    "id": 163,
+    "name": "Text extraction",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Text extraction capability in the files & documents module."
+  },
+  {
+    "id": 164,
+    "name": "Document summary",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Document summary capability in the files & documents module."
+  },
+  {
+    "id": 165,
+    "name": "Document Q&A",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Document Q&A capability in the files & documents module."
+  },
+  {
+    "id": 166,
+    "name": "CSV analysis",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "CSV analysis capability in the files & documents module."
+  },
+  {
+    "id": 167,
+    "name": "JSON analysis",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "JSON analysis capability in the files & documents module."
+  },
+  {
+    "id": 168,
+    "name": "Markdown preview",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Markdown preview capability in the files & documents module."
+  },
+  {
+    "id": 169,
+    "name": "TXT analysis",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "TXT analysis capability in the files & documents module."
+  },
+  {
+    "id": 170,
+    "name": "Document comparison",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Document comparison capability in the files & documents module."
+  },
+  {
+    "id": 171,
+    "name": "Key-point extraction",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Key-point extraction capability in the files & documents module."
+  },
+  {
+    "id": 172,
+    "name": "Table extraction",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Table extraction capability in the files & documents module."
+  },
+  {
+    "id": 173,
+    "name": "Outline extraction",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Outline extraction capability in the files & documents module."
+  },
+  {
+    "id": 174,
+    "name": "File metadata",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "File metadata capability in the files & documents module."
+  },
+  {
+    "id": 175,
+    "name": "Export notes",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Export notes capability in the files & documents module."
+  },
+  {
+    "id": 176,
+    "name": "Generated reports",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Generated reports capability in the files & documents module."
+  },
+  {
+    "id": 177,
+    "name": "File search",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "File search capability in the files & documents module."
+  },
+  {
+    "id": 178,
+    "name": "Folder organization",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Folder organization capability in the files & documents module."
+  },
+  {
+    "id": 179,
+    "name": "Document tags",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Document tags capability in the files & documents module."
+  },
+  {
+    "id": 180,
+    "name": "Document history",
+    "category": "Files & Documents",
+    "status": "Ready",
+    "description": "Document history capability in the files & documents module."
+  },
+  {
+    "id": 181,
+    "name": "English",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "English capability in the languages module."
+  },
+  {
+    "id": 182,
+    "name": "Tamil",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Tamil capability in the languages module."
+  },
+  {
+    "id": 183,
+    "name": "Hindi",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Hindi capability in the languages module."
+  },
+  {
+    "id": 184,
+    "name": "Malayalam",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Malayalam capability in the languages module."
+  },
+  {
+    "id": 185,
+    "name": "Telugu",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Telugu capability in the languages module."
+  },
+  {
+    "id": 186,
+    "name": "Kannada",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Kannada capability in the languages module."
+  },
+  {
+    "id": 187,
+    "name": "Bengali",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Bengali capability in the languages module."
+  },
+  {
+    "id": 188,
+    "name": "Marathi",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Marathi capability in the languages module."
+  },
+  {
+    "id": 189,
+    "name": "Gujarati",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Gujarati capability in the languages module."
+  },
+  {
+    "id": 190,
+    "name": "Punjabi",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Punjabi capability in the languages module."
+  },
+  {
+    "id": 191,
+    "name": "Urdu",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Urdu capability in the languages module."
+  },
+  {
+    "id": 192,
+    "name": "Translation",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Translation capability in the languages module."
+  },
+  {
+    "id": 193,
+    "name": "Transliteration",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Transliteration capability in the languages module."
+  },
+  {
+    "id": 194,
+    "name": "Grammar correction",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Grammar correction capability in the languages module."
+  },
+  {
+    "id": 195,
+    "name": "Spelling correction",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Spelling correction capability in the languages module."
+  },
+  {
+    "id": 196,
+    "name": "Pronunciation help",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Pronunciation help capability in the languages module."
+  },
+  {
+    "id": 197,
+    "name": "Bilingual chat",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Bilingual chat capability in the languages module."
+  },
+  {
+    "id": 198,
+    "name": "Language detection",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Language detection capability in the languages module."
+  },
+  {
+    "id": 199,
+    "name": "Vocabulary practice",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Vocabulary practice capability in the languages module."
+  },
+  {
+    "id": 200,
+    "name": "Sentence rewriting",
+    "category": "Languages",
+    "status": "Ready",
+    "description": "Sentence rewriting capability in the languages module."
+  },
+  {
+    "id": 201,
+    "name": "Dark theme",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Dark theme capability in the ui & themes module."
+  },
+  {
+    "id": 202,
+    "name": "Light theme",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Light theme capability in the ui & themes module."
+  },
+  {
+    "id": 203,
+    "name": "Responsive layout",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Responsive layout capability in the ui & themes module."
+  },
+  {
+    "id": 204,
+    "name": "Mobile layout",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Mobile layout capability in the ui & themes module."
+  },
+  {
+    "id": 205,
+    "name": "Tablet layout",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Tablet layout capability in the ui & themes module."
+  },
+  {
+    "id": 206,
+    "name": "Keyboard shortcuts",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Keyboard shortcuts capability in the ui & themes module."
+  },
+  {
+    "id": 207,
+    "name": "Quick prompts",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Quick prompts capability in the ui & themes module."
+  },
+  {
+    "id": 208,
+    "name": "Settings panel",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Settings panel capability in the ui & themes module."
+  },
+  {
+    "id": 209,
+    "name": "Feature browser",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Feature browser capability in the ui & themes module."
+  },
+  {
+    "id": 210,
+    "name": "Search features",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Search features capability in the ui & themes module."
+  },
+  {
+    "id": 211,
+    "name": "Chat export",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Chat export capability in the ui & themes module."
+  },
+  {
+    "id": 212,
+    "name": "Clear chat",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Clear chat capability in the ui & themes module."
+  },
+  {
+    "id": 213,
+    "name": "Status indicator",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Status indicator capability in the ui & themes module."
+  },
+  {
+    "id": 214,
+    "name": "Toast notifications",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Toast notifications capability in the ui & themes module."
+  },
+  {
+    "id": 215,
+    "name": "Loading state",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Loading state capability in the ui & themes module."
+  },
+  {
+    "id": 216,
+    "name": "Error state",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Error state capability in the ui & themes module."
+  },
+  {
+    "id": 217,
+    "name": "Accessibility labels",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Accessibility labels capability in the ui & themes module."
+  },
+  {
+    "id": 218,
+    "name": "Font scaling",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Font scaling capability in the ui & themes module."
+  },
+  {
+    "id": 219,
+    "name": "Compact mode",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Compact mode capability in the ui & themes module."
+  },
+  {
+    "id": 220,
+    "name": "Fullscreen mode",
+    "category": "UI & Themes",
+    "status": "Ready",
+    "description": "Fullscreen mode capability in the ui & themes module."
+  },
+  {
+    "id": 221,
+    "name": "API key server-side",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "API key server-side capability in the security & privacy module."
+  },
+  {
+    "id": 222,
+    "name": "Environment variables",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Environment variables capability in the security & privacy module."
+  },
+  {
+    "id": 223,
+    "name": "Input validation",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Input validation capability in the security & privacy module."
+  },
+  {
+    "id": 224,
+    "name": "Request validation",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Request validation capability in the security & privacy module."
+  },
+  {
+    "id": 225,
+    "name": "Error handling",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Error handling capability in the security & privacy module."
+  },
+  {
+    "id": 226,
+    "name": "Privacy notice",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Privacy notice capability in the security & privacy module."
+  },
+  {
+    "id": 227,
+    "name": "Temporary chat",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Temporary chat capability in the security & privacy module."
+  },
+  {
+    "id": 228,
+    "name": "Clear history",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Clear history capability in the security & privacy module."
+  },
+  {
+    "id": 229,
+    "name": "No frontend API key",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "No frontend API key capability in the security & privacy module."
+  },
+  {
+    "id": 230,
+    "name": "Session isolation",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Session isolation capability in the security & privacy module."
+  },
+  {
+    "id": 231,
+    "name": "Safe rendering",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Safe rendering capability in the security & privacy module."
+  },
+  {
+    "id": 232,
+    "name": "XSS-aware output",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "XSS-aware output capability in the security & privacy module."
+  },
+  {
+    "id": 233,
+    "name": "Rate-limit hook",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Rate-limit hook capability in the security & privacy module."
+  },
+  {
+    "id": 234,
+    "name": "Audit log hook",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Audit log hook capability in the security & privacy module."
+  },
+  {
+    "id": 235,
+    "name": "Security settings",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Security settings capability in the security & privacy module."
+  },
+  {
+    "id": 236,
+    "name": "Data export",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Data export capability in the security & privacy module."
+  },
+  {
+    "id": 237,
+    "name": "Data deletion",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Data deletion capability in the security & privacy module."
+  },
+  {
+    "id": 238,
+    "name": "Configuration validation",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Configuration validation capability in the security & privacy module."
+  },
+  {
+    "id": 239,
+    "name": "Secret masking",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Secret masking capability in the security & privacy module."
+  },
+  {
+    "id": 240,
+    "name": "Deployment secrets",
+    "category": "Security & Privacy",
+    "status": "Ready",
+    "description": "Deployment secrets capability in the security & privacy module."
+  },
+  {
+    "id": 241,
+    "name": "Message count",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Message count capability in the analytics module."
+  },
+  {
+    "id": 242,
+    "name": "Session count",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Session count capability in the analytics module."
+  },
+  {
+    "id": 243,
+    "name": "Feature count",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Feature count capability in the analytics module."
+  },
+  {
+    "id": 244,
+    "name": "Usage summary",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Usage summary capability in the analytics module."
+  },
+  {
+    "id": 245,
+    "name": "Voice usage hook",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Voice usage hook capability in the analytics module."
+  },
+  {
+    "id": 246,
+    "name": "Response timing hook",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Response timing hook capability in the analytics module."
+  },
+  {
+    "id": 247,
+    "name": "Error counter",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Error counter capability in the analytics module."
+  },
+  {
+    "id": 248,
+    "name": "Daily activity hook",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Daily activity hook capability in the analytics module."
+  },
+  {
+    "id": 249,
+    "name": "Export analytics",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Export analytics capability in the analytics module."
+  },
+  {
+    "id": 250,
+    "name": "Dashboard hook",
+    "category": "Analytics",
+    "status": "Ready",
+    "description": "Dashboard hook capability in the analytics module."
+  },
+  {
+    "id": 251,
+    "name": "Event logging",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Event logging capability in the analytics module."
+  },
+  {
+    "id": 252,
+    "name": "Feature usage logging",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Feature usage logging capability in the analytics module."
+  },
+  {
+    "id": 253,
+    "name": "Conversation metrics",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Conversation metrics capability in the analytics module."
+  },
+  {
+    "id": 254,
+    "name": "Latency metrics",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Latency metrics capability in the analytics module."
+  },
+  {
+    "id": 255,
+    "name": "System status",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "System status capability in the analytics module."
+  },
+  {
+    "id": 256,
+    "name": "Health endpoint hook",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Health endpoint hook capability in the analytics module."
+  },
+  {
+    "id": 257,
+    "name": "Performance mode",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Performance mode capability in the analytics module."
+  },
+  {
+    "id": 258,
+    "name": "Resource awareness",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Resource awareness capability in the analytics module."
+  },
+  {
+    "id": 259,
+    "name": "Debug mode",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Debug mode capability in the analytics module."
+  },
+  {
+    "id": 260,
+    "name": "Admin metrics hook",
+    "category": "Analytics",
+    "status": "Extension",
+    "description": "Admin metrics hook capability in the analytics module."
+  },
+  {
+    "id": 261,
+    "name": "Gemini API",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Gemini API capability in the integrations module."
+  },
+  {
+    "id": 262,
+    "name": "Browser speech APIs",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Browser speech APIs capability in the integrations module."
+  },
+  {
+    "id": 263,
+    "name": "Three.js",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Three.js capability in the integrations module."
+  },
+  {
+    "id": 264,
+    "name": "SQLite",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "SQLite capability in the integrations module."
+  },
+  {
+    "id": 265,
+    "name": "Render deployment",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Render deployment capability in the integrations module."
+  },
+  {
+    "id": 266,
+    "name": "Environment configuration",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Environment configuration capability in the integrations module."
+  },
+  {
+    "id": 267,
+    "name": "REST API",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "REST API capability in the integrations module."
+  },
+  {
+    "id": 268,
+    "name": "JSON API",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "JSON API capability in the integrations module."
+  },
+  {
+    "id": 269,
+    "name": "Webhook hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Webhook hook capability in the integrations module."
+  },
+  {
+    "id": 270,
+    "name": "Calendar hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Calendar hook capability in the integrations module."
+  },
+  {
+    "id": 271,
+    "name": "Email hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Email hook capability in the integrations module."
+  },
+  {
+    "id": 272,
+    "name": "Weather hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Weather hook capability in the integrations module."
+  },
+  {
+    "id": 273,
+    "name": "Maps hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Maps hook capability in the integrations module."
+  },
+  {
+    "id": 274,
+    "name": "Search provider hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Search provider hook capability in the integrations module."
+  },
+  {
+    "id": 275,
+    "name": "Storage hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Storage hook capability in the integrations module."
+  },
+  {
+    "id": 276,
+    "name": "Authentication hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Authentication hook capability in the integrations module."
+  },
+  {
+    "id": 277,
+    "name": "OAuth hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "OAuth hook capability in the integrations module."
+  },
+  {
+    "id": 278,
+    "name": "Plugin hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Plugin hook capability in the integrations module."
+  },
+  {
+    "id": 279,
+    "name": "External tools hook",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "External tools hook capability in the integrations module."
+  },
+  {
+    "id": 280,
+    "name": "Custom API connector",
+    "category": "Integrations",
+    "status": "Extension",
+    "description": "Custom API connector capability in the integrations module."
+  },
+  {
+    "id": 281,
+    "name": "Modular backend",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Modular backend capability in the developer tools module."
+  },
+  {
+    "id": 282,
+    "name": "Frontend modules",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Frontend modules capability in the developer tools module."
+  },
+  {
+    "id": 283,
+    "name": "Feature registry",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Feature registry capability in the developer tools module."
+  },
+  {
+    "id": 284,
+    "name": "Configuration file",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Configuration file capability in the developer tools module."
+  },
+  {
+    "id": 285,
+    "name": "Environment template",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Environment template capability in the developer tools module."
+  },
+  {
+    "id": 286,
+    "name": "Requirements file",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Requirements file capability in the developer tools module."
+  },
+  {
+    "id": 287,
+    "name": "Procfile",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Procfile capability in the developer tools module."
+  },
+  {
+    "id": 288,
+    "name": "Render YAML",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Render YAML capability in the developer tools module."
+  },
+  {
+    "id": 289,
+    "name": "README",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "README capability in the developer tools module."
+  },
+  {
+    "id": 290,
+    "name": "API endpoints",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "API endpoints capability in the developer tools module."
+  },
+  {
+    "id": 291,
+    "name": "Database initialization",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Database initialization capability in the developer tools module."
+  },
+  {
+    "id": 292,
+    "name": "Error messages",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Error messages capability in the developer tools module."
+  },
+  {
+    "id": 293,
+    "name": "Logging hooks",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Logging hooks capability in the developer tools module."
+  },
+  {
+    "id": 294,
+    "name": "Test hooks",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Test hooks capability in the developer tools module."
+  },
+  {
+    "id": 295,
+    "name": "Health checks",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Health checks capability in the developer tools module."
+  },
+  {
+    "id": 296,
+    "name": "Debug configuration",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Debug configuration capability in the developer tools module."
+  },
+  {
+    "id": 297,
+    "name": "Static asset organization",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Static asset organization capability in the developer tools module."
+  },
+  {
+    "id": 298,
+    "name": "Reusable UI components",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Reusable UI components capability in the developer tools module."
+  },
+  {
+    "id": 299,
+    "name": "Extension points",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Extension points capability in the developer tools module."
+  },
+  {
+    "id": 300,
+    "name": "Version metadata",
+    "category": "Developer Tools",
+    "status": "Extension",
+    "description": "Version metadata capability in the developer tools module."
+  },
+  {
+    "id": 301,
+    "name": "Context awareness — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with preset support."
+  },
+  {
+    "id": 302,
+    "name": "Context awareness — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with advanced settings support."
+  },
+  {
+    "id": 303,
+    "name": "Context awareness — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with history support."
+  },
+  {
+    "id": 304,
+    "name": "Context awareness — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with import support."
+  },
+  {
+    "id": 305,
+    "name": "Context awareness — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with export support."
+  },
+  {
+    "id": 306,
+    "name": "Context awareness — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with search support."
+  },
+  {
+    "id": 307,
+    "name": "Context awareness — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with filter support."
+  },
+  {
+    "id": 308,
+    "name": "Context awareness — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with keyboard shortcut support."
+  },
+  {
+    "id": 309,
+    "name": "Context awareness — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with mobile mode support."
+  },
+  {
+    "id": 310,
+    "name": "Context awareness — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with accessibility mode support."
+  },
+  {
+    "id": 311,
+    "name": "Context awareness — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with performance mode support."
+  },
+  {
+    "id": 312,
+    "name": "Context awareness — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with privacy mode support."
+  },
+  {
+    "id": 313,
+    "name": "Context awareness — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with customization support."
+  },
+  {
+    "id": 314,
+    "name": "Context awareness — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with analytics support."
+  },
+  {
+    "id": 315,
+    "name": "Context awareness — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for context awareness with api hook support."
+  },
+  {
+    "id": 316,
+    "name": "Follow-up questions — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with preset support."
+  },
+  {
+    "id": 317,
+    "name": "Follow-up questions — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with advanced settings support."
+  },
+  {
+    "id": 318,
+    "name": "Follow-up questions — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with history support."
+  },
+  {
+    "id": 319,
+    "name": "Follow-up questions — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with import support."
+  },
+  {
+    "id": 320,
+    "name": "Follow-up questions — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with export support."
+  },
+  {
+    "id": 321,
+    "name": "Follow-up questions — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with search support."
+  },
+  {
+    "id": 322,
+    "name": "Follow-up questions — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with filter support."
+  },
+  {
+    "id": 323,
+    "name": "Follow-up questions — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with keyboard shortcut support."
+  },
+  {
+    "id": 324,
+    "name": "Follow-up questions — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with mobile mode support."
+  },
+  {
+    "id": 325,
+    "name": "Follow-up questions — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with accessibility mode support."
+  },
+  {
+    "id": 326,
+    "name": "Follow-up questions — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with performance mode support."
+  },
+  {
+    "id": 327,
+    "name": "Follow-up questions — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with privacy mode support."
+  },
+  {
+    "id": 328,
+    "name": "Follow-up questions — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with customization support."
+  },
+  {
+    "id": 329,
+    "name": "Follow-up questions — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with analytics support."
+  },
+  {
+    "id": 330,
+    "name": "Follow-up questions — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for follow-up questions with api hook support."
+  },
+  {
+    "id": 331,
+    "name": "Conversation summarization — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with preset support."
+  },
+  {
+    "id": 332,
+    "name": "Conversation summarization — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with advanced settings support."
+  },
+  {
+    "id": 333,
+    "name": "Conversation summarization — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with history support."
+  },
+  {
+    "id": 334,
+    "name": "Conversation summarization — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with import support."
+  },
+  {
+    "id": 335,
+    "name": "Conversation summarization — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with export support."
+  },
+  {
+    "id": 336,
+    "name": "Conversation summarization — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with search support."
+  },
+  {
+    "id": 337,
+    "name": "Conversation summarization — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with filter support."
+  },
+  {
+    "id": 338,
+    "name": "Conversation summarization — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with keyboard shortcut support."
+  },
+  {
+    "id": 339,
+    "name": "Conversation summarization — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with mobile mode support."
+  },
+  {
+    "id": 340,
+    "name": "Conversation summarization — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with accessibility mode support."
+  },
+  {
+    "id": 341,
+    "name": "Conversation summarization — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with performance mode support."
+  },
+  {
+    "id": 342,
+    "name": "Conversation summarization — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with privacy mode support."
+  },
+  {
+    "id": 343,
+    "name": "Conversation summarization — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with customization support."
+  },
+  {
+    "id": 344,
+    "name": "Conversation summarization — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with analytics support."
+  },
+  {
+    "id": 345,
+    "name": "Conversation summarization — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for conversation summarization with api hook support."
+  },
+  {
+    "id": 346,
+    "name": "Intent detection — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with preset support."
+  },
+  {
+    "id": 347,
+    "name": "Intent detection — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with advanced settings support."
+  },
+  {
+    "id": 348,
+    "name": "Intent detection — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with history support."
+  },
+  {
+    "id": 349,
+    "name": "Intent detection — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with import support."
+  },
+  {
+    "id": 350,
+    "name": "Intent detection — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with export support."
+  },
+  {
+    "id": 351,
+    "name": "Intent detection — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with search support."
+  },
+  {
+    "id": 352,
+    "name": "Intent detection — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with filter support."
+  },
+  {
+    "id": 353,
+    "name": "Intent detection — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with keyboard shortcut support."
+  },
+  {
+    "id": 354,
+    "name": "Intent detection — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with mobile mode support."
+  },
+  {
+    "id": 355,
+    "name": "Intent detection — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with accessibility mode support."
+  },
+  {
+    "id": 356,
+    "name": "Intent detection — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with performance mode support."
+  },
+  {
+    "id": 357,
+    "name": "Intent detection — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with privacy mode support."
+  },
+  {
+    "id": 358,
+    "name": "Intent detection — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with customization support."
+  },
+  {
+    "id": 359,
+    "name": "Intent detection — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with analytics support."
+  },
+  {
+    "id": 360,
+    "name": "Intent detection — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for intent detection with api hook support."
+  },
+  {
+    "id": 361,
+    "name": "Prompt presets — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with preset support."
+  },
+  {
+    "id": 362,
+    "name": "Prompt presets — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with advanced settings support."
+  },
+  {
+    "id": 363,
+    "name": "Prompt presets — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with history support."
+  },
+  {
+    "id": 364,
+    "name": "Prompt presets — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with import support."
+  },
+  {
+    "id": 365,
+    "name": "Prompt presets — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with export support."
+  },
+  {
+    "id": 366,
+    "name": "Prompt presets — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with search support."
+  },
+  {
+    "id": 367,
+    "name": "Prompt presets — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with filter support."
+  },
+  {
+    "id": 368,
+    "name": "Prompt presets — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with keyboard shortcut support."
+  },
+  {
+    "id": 369,
+    "name": "Prompt presets — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with mobile mode support."
+  },
+  {
+    "id": 370,
+    "name": "Prompt presets — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with accessibility mode support."
+  },
+  {
+    "id": 371,
+    "name": "Prompt presets — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with performance mode support."
+  },
+  {
+    "id": 372,
+    "name": "Prompt presets — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with privacy mode support."
+  },
+  {
+    "id": 373,
+    "name": "Prompt presets — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with customization support."
+  },
+  {
+    "id": 374,
+    "name": "Prompt presets — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with analytics support."
+  },
+  {
+    "id": 375,
+    "name": "Prompt presets — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for prompt presets with api hook support."
+  },
+  {
+    "id": 376,
+    "name": "Personality profiles — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with preset support."
+  },
+  {
+    "id": 377,
+    "name": "Personality profiles — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with advanced settings support."
+  },
+  {
+    "id": 378,
+    "name": "Personality profiles — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with history support."
+  },
+  {
+    "id": 379,
+    "name": "Personality profiles — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with import support."
+  },
+  {
+    "id": 380,
+    "name": "Personality profiles — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with export support."
+  },
+  {
+    "id": 381,
+    "name": "Personality profiles — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with search support."
+  },
+  {
+    "id": 382,
+    "name": "Personality profiles — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with filter support."
+  },
+  {
+    "id": 383,
+    "name": "Personality profiles — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with keyboard shortcut support."
+  },
+  {
+    "id": 384,
+    "name": "Personality profiles — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with mobile mode support."
+  },
+  {
+    "id": 385,
+    "name": "Personality profiles — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with accessibility mode support."
+  },
+  {
+    "id": 386,
+    "name": "Personality profiles — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with performance mode support."
+  },
+  {
+    "id": 387,
+    "name": "Personality profiles — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with privacy mode support."
+  },
+  {
+    "id": 388,
+    "name": "Personality profiles — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with customization support."
+  },
+  {
+    "id": 389,
+    "name": "Personality profiles — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with analytics support."
+  },
+  {
+    "id": 390,
+    "name": "Personality profiles — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for personality profiles with api hook support."
+  },
+  {
+    "id": 391,
+    "name": "Tone adaptation — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with preset support."
+  },
+  {
+    "id": 392,
+    "name": "Tone adaptation — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with advanced settings support."
+  },
+  {
+    "id": 393,
+    "name": "Tone adaptation — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with history support."
+  },
+  {
+    "id": 394,
+    "name": "Tone adaptation — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with import support."
+  },
+  {
+    "id": 395,
+    "name": "Tone adaptation — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with export support."
+  },
+  {
+    "id": 396,
+    "name": "Tone adaptation — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with search support."
+  },
+  {
+    "id": 397,
+    "name": "Tone adaptation — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with filter support."
+  },
+  {
+    "id": 398,
+    "name": "Tone adaptation — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with keyboard shortcut support."
+  },
+  {
+    "id": 399,
+    "name": "Tone adaptation — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with mobile mode support."
+  },
+  {
+    "id": 400,
+    "name": "Tone adaptation — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with accessibility mode support."
+  },
+  {
+    "id": 401,
+    "name": "Tone adaptation — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with performance mode support."
+  },
+  {
+    "id": 402,
+    "name": "Tone adaptation — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with privacy mode support."
+  },
+  {
+    "id": 403,
+    "name": "Tone adaptation — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with customization support."
+  },
+  {
+    "id": 404,
+    "name": "Tone adaptation — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with analytics support."
+  },
+  {
+    "id": 405,
+    "name": "Tone adaptation — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for tone adaptation with api hook support."
+  },
+  {
+    "id": 406,
+    "name": "Topic continuity — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with preset support."
+  },
+  {
+    "id": 407,
+    "name": "Topic continuity — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with advanced settings support."
+  },
+  {
+    "id": 408,
+    "name": "Topic continuity — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with history support."
+  },
+  {
+    "id": 409,
+    "name": "Topic continuity — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with import support."
+  },
+  {
+    "id": 410,
+    "name": "Topic continuity — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with export support."
+  },
+  {
+    "id": 411,
+    "name": "Topic continuity — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with search support."
+  },
+  {
+    "id": 412,
+    "name": "Topic continuity — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with filter support."
+  },
+  {
+    "id": 413,
+    "name": "Topic continuity — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with keyboard shortcut support."
+  },
+  {
+    "id": 414,
+    "name": "Topic continuity — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with mobile mode support."
+  },
+  {
+    "id": 415,
+    "name": "Topic continuity — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with accessibility mode support."
+  },
+  {
+    "id": 416,
+    "name": "Topic continuity — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with performance mode support."
+  },
+  {
+    "id": 417,
+    "name": "Topic continuity — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with privacy mode support."
+  },
+  {
+    "id": 418,
+    "name": "Topic continuity — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with customization support."
+  },
+  {
+    "id": 419,
+    "name": "Topic continuity — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with analytics support."
+  },
+  {
+    "id": 420,
+    "name": "Topic continuity — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for topic continuity with api hook support."
+  },
+  {
+    "id": 421,
+    "name": "Clarification mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with preset support."
+  },
+  {
+    "id": 422,
+    "name": "Clarification mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with advanced settings support."
+  },
+  {
+    "id": 423,
+    "name": "Clarification mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with history support."
+  },
+  {
+    "id": 424,
+    "name": "Clarification mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with import support."
+  },
+  {
+    "id": 425,
+    "name": "Clarification mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with export support."
+  },
+  {
+    "id": 426,
+    "name": "Clarification mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with search support."
+  },
+  {
+    "id": 427,
+    "name": "Clarification mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with filter support."
+  },
+  {
+    "id": 428,
+    "name": "Clarification mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with keyboard shortcut support."
+  },
+  {
+    "id": 429,
+    "name": "Clarification mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with mobile mode support."
+  },
+  {
+    "id": 430,
+    "name": "Clarification mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with accessibility mode support."
+  },
+  {
+    "id": 431,
+    "name": "Clarification mode — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with performance mode support."
+  },
+  {
+    "id": 432,
+    "name": "Clarification mode — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with privacy mode support."
+  },
+  {
+    "id": 433,
+    "name": "Clarification mode — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with customization support."
+  },
+  {
+    "id": 434,
+    "name": "Clarification mode — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with analytics support."
+  },
+  {
+    "id": 435,
+    "name": "Clarification mode — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for clarification mode with api hook support."
+  },
+  {
+    "id": 436,
+    "name": "Answer length control — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with preset support."
+  },
+  {
+    "id": 437,
+    "name": "Answer length control — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with advanced settings support."
+  },
+  {
+    "id": 438,
+    "name": "Answer length control — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with history support."
+  },
+  {
+    "id": 439,
+    "name": "Answer length control — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with import support."
+  },
+  {
+    "id": 440,
+    "name": "Answer length control — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with export support."
+  },
+  {
+    "id": 441,
+    "name": "Answer length control — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with search support."
+  },
+  {
+    "id": 442,
+    "name": "Answer length control — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with filter support."
+  },
+  {
+    "id": 443,
+    "name": "Answer length control — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with keyboard shortcut support."
+  },
+  {
+    "id": 444,
+    "name": "Answer length control — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with mobile mode support."
+  },
+  {
+    "id": 445,
+    "name": "Answer length control — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with accessibility mode support."
+  },
+  {
+    "id": 446,
+    "name": "Answer length control — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with performance mode support."
+  },
+  {
+    "id": 447,
+    "name": "Answer length control — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with privacy mode support."
+  },
+  {
+    "id": 448,
+    "name": "Answer length control — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with customization support."
+  },
+  {
+    "id": 449,
+    "name": "Answer length control — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with analytics support."
+  },
+  {
+    "id": 450,
+    "name": "Answer length control — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for answer length control with api hook support."
+  },
+  {
+    "id": 451,
+    "name": "Fact-check mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with preset support."
+  },
+  {
+    "id": 452,
+    "name": "Fact-check mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with advanced settings support."
+  },
+  {
+    "id": 453,
+    "name": "Fact-check mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with history support."
+  },
+  {
+    "id": 454,
+    "name": "Fact-check mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with import support."
+  },
+  {
+    "id": 455,
+    "name": "Fact-check mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with export support."
+  },
+  {
+    "id": 456,
+    "name": "Fact-check mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with search support."
+  },
+  {
+    "id": 457,
+    "name": "Fact-check mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with filter support."
+  },
+  {
+    "id": 458,
+    "name": "Fact-check mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with keyboard shortcut support."
+  },
+  {
+    "id": 459,
+    "name": "Fact-check mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with mobile mode support."
+  },
+  {
+    "id": 460,
+    "name": "Fact-check mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with accessibility mode support."
+  },
+  {
+    "id": 461,
+    "name": "Fact-check mode — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with performance mode support."
+  },
+  {
+    "id": 462,
+    "name": "Fact-check mode — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with privacy mode support."
+  },
+  {
+    "id": 463,
+    "name": "Fact-check mode — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with customization support."
+  },
+  {
+    "id": 464,
+    "name": "Fact-check mode — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with analytics support."
+  },
+  {
+    "id": 465,
+    "name": "Fact-check mode — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for fact-check mode with api hook support."
+  },
+  {
+    "id": 466,
+    "name": "Creative mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with preset support."
+  },
+  {
+    "id": 467,
+    "name": "Creative mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with advanced settings support."
+  },
+  {
+    "id": 468,
+    "name": "Creative mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with history support."
+  },
+  {
+    "id": 469,
+    "name": "Creative mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with import support."
+  },
+  {
+    "id": 470,
+    "name": "Creative mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with export support."
+  },
+  {
+    "id": 471,
+    "name": "Creative mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with search support."
+  },
+  {
+    "id": 472,
+    "name": "Creative mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with filter support."
+  },
+  {
+    "id": 473,
+    "name": "Creative mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with keyboard shortcut support."
+  },
+  {
+    "id": 474,
+    "name": "Creative mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with mobile mode support."
+  },
+  {
+    "id": 475,
+    "name": "Creative mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with accessibility mode support."
+  },
+  {
+    "id": 476,
+    "name": "Creative mode — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with performance mode support."
+  },
+  {
+    "id": 477,
+    "name": "Creative mode — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with privacy mode support."
+  },
+  {
+    "id": 478,
+    "name": "Creative mode — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with customization support."
+  },
+  {
+    "id": 479,
+    "name": "Creative mode — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with analytics support."
+  },
+  {
+    "id": 480,
+    "name": "Creative mode — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for creative mode with api hook support."
+  },
+  {
+    "id": 481,
+    "name": "Study mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with preset support."
+  },
+  {
+    "id": 482,
+    "name": "Study mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with advanced settings support."
+  },
+  {
+    "id": 483,
+    "name": "Study mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with history support."
+  },
+  {
+    "id": 484,
+    "name": "Study mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with import support."
+  },
+  {
+    "id": 485,
+    "name": "Study mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with export support."
+  },
+  {
+    "id": 486,
+    "name": "Study mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with search support."
+  },
+  {
+    "id": 487,
+    "name": "Study mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with filter support."
+  },
+  {
+    "id": 488,
+    "name": "Study mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with keyboard shortcut support."
+  },
+  {
+    "id": 489,
+    "name": "Study mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with mobile mode support."
+  },
+  {
+    "id": 490,
+    "name": "Study mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with accessibility mode support."
+  },
+  {
+    "id": 491,
+    "name": "Study mode — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with performance mode support."
+  },
+  {
+    "id": 492,
+    "name": "Study mode — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with privacy mode support."
+  },
+  {
+    "id": 493,
+    "name": "Study mode — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with customization support."
+  },
+  {
+    "id": 494,
+    "name": "Study mode — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with analytics support."
+  },
+  {
+    "id": 495,
+    "name": "Study mode — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for study mode with api hook support."
+  },
+  {
+    "id": 496,
+    "name": "Interview mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with preset support."
+  },
+  {
+    "id": 497,
+    "name": "Interview mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with advanced settings support."
+  },
+  {
+    "id": 498,
+    "name": "Interview mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with history support."
+  },
+  {
+    "id": 499,
+    "name": "Interview mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with import support."
+  },
+  {
+    "id": 500,
+    "name": "Interview mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with export support."
+  },
+  {
+    "id": 501,
+    "name": "Interview mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with search support."
+  },
+  {
+    "id": 502,
+    "name": "Interview mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with filter support."
+  },
+  {
+    "id": 503,
+    "name": "Interview mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with keyboard shortcut support."
+  },
+  {
+    "id": 504,
+    "name": "Interview mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with mobile mode support."
+  },
+  {
+    "id": 505,
+    "name": "Interview mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with accessibility mode support."
+  },
+  {
+    "id": 506,
+    "name": "Interview mode — Performance Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with performance mode support."
+  },
+  {
+    "id": 507,
+    "name": "Interview mode — Privacy Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with privacy mode support."
+  },
+  {
+    "id": 508,
+    "name": "Interview mode — Customization",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with customization support."
+  },
+  {
+    "id": 509,
+    "name": "Interview mode — Analytics",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with analytics support."
+  },
+  {
+    "id": 510,
+    "name": "Interview mode — API Hook",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for interview mode with api hook support."
+  },
+  {
+    "id": 511,
+    "name": "Brainstorm mode — Preset",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with preset support."
+  },
+  {
+    "id": 512,
+    "name": "Brainstorm mode — Advanced Settings",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with advanced settings support."
+  },
+  {
+    "id": 513,
+    "name": "Brainstorm mode — History",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with history support."
+  },
+  {
+    "id": 514,
+    "name": "Brainstorm mode — Import",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with import support."
+  },
+  {
+    "id": 515,
+    "name": "Brainstorm mode — Export",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with export support."
+  },
+  {
+    "id": 516,
+    "name": "Brainstorm mode — Search",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with search support."
+  },
+  {
+    "id": 517,
+    "name": "Brainstorm mode — Filter",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with filter support."
+  },
+  {
+    "id": 518,
+    "name": "Brainstorm mode — Keyboard Shortcut",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with keyboard shortcut support."
+  },
+  {
+    "id": 519,
+    "name": "Brainstorm mode — Mobile Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with mobile mode support."
+  },
+  {
+    "id": 520,
+    "name": "Brainstorm mode — Accessibility Mode",
+    "category": "AI Conversation",
+    "status": "Extension",
+    "description": "Extension point for brainstorm mode with accessibility mode support."
+  }
+]
