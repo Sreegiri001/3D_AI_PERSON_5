@@ -29,7 +29,7 @@ def init_db():
 
 def call_gemini(message, history):
     api_key = os.getenv("GEMINI_API_KEY", "").strip()
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
     if not api_key:
         return "Gemini API key is not configured. Add GEMINI_API_KEY to your .env file."
     try:
